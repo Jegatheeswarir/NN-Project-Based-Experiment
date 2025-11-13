@@ -1,4 +1,4 @@
-#Project Based Experiments
+### Project Based Experiments
 ## Objective :
  Build a Multilayer Perceptron (MLP) to classify handwritten digits in python
 ## Steps to follow:
@@ -131,9 +131,12 @@ for i, idx in enumerate(misclassified_idx[:10]):
 plt.tight_layout()
 plt.show()
 ```
+
 ## Output:
-<img width="476" height="490" alt="image" src="https://github.com/user-attachments/assets/8019e0a7-600c-4e61-8bf7-dbfee97f26ce" />
-<img width="1017" height="427" alt="image" src="https://github.com/user-attachments/assets/78279a84-df98-4224-97bb-db72251d5e46" />
-<img width="1077" height="458" alt="image" src="https://github.com/user-attachments/assets/77722c32-3b3b-4ce3-b5a7-11e2f986c70d" />
+![image](https://github.com/user-attachments/assets/e9442c99-9767-4aec-bba7-e4c76641545d)
+![image](https://github.com/user-attachments/assets/36a59b80-055b-437e-9700-f4c92598db9f)
+
+![image](https://github.com/user-attachments/assets/132bc0a6-a1b7-4b9a-a5c2-e06f2feced06)
+![image](https://github.com/user-attachments/assets/f228a59d-13db-4221-a8db-0d6470f35685)
 
 
